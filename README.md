@@ -1,4 +1,4 @@
-### Hello, I'm Awal Arif!  👋
+### Hello, I'm Arif A. Awal!  👋
 
 
 - 🔭 I’m currently working on Google Map SDK.
