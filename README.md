@@ -2,4 +2,4 @@
 
 Skills: 
 **Flutter** | **Dart** | **REST API** | **SQLite** | **State Management**
-**Firebase** | **Git** | **OOP** | **JAVA** | **KOTLIN** | **GraphQL**
+**Firebase** | **Git** | **OOP** | **JAVA** | **KOTLIN** | **GraphQL** | **Notifications**
