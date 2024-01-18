@@ -1,5 +1,30 @@
-### Hi there, thank you so much for checking out my profile. I'm a Mobile Application developer who loves to build experiences that help people do what they couldn't do before. I love using technology to enable others, and feel most fulfilled when using my skills to do so. I'm a strong advocate for diversity and inclusion in the tech industry.
+ <h1 align="center">Hi 👋, I'm Abdul Awal</h1>
 
-Skills: 
-**Flutter** | **Dart** | **REST API** | **SQLite** | **State Management** | 
-**Firebase** | **Git** | **OOP** | **JAVA** | **KOTLIN** | **GraphQL** | **Notifications**
+- 🔭 I’m currently working on Flutter
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: abdulawalarif0011@gmail.com
+- 😄 My website: https://thetechbrothers.net
+-   
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/abdulawalarif">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://fb.com/Aawalarif">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/awalAppDev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulawalarif&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulawalarif&theme=dark)
+
+
+<br>
+⭐️ From [Abdul Awal](https://github.com/abdulawalarif)
