@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: abdulawalarif0011@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 😄 My LinkedIn: https://www.linkedin.com/in/arifawal
   
 ### Connect with me:
 <div id="badges">
