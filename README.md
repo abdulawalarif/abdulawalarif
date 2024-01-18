@@ -4,7 +4,7 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: abdulawalarif0011@gmail.com
 - 😄 My website: https://thetechbrothers.net
--   
+  
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/abdulawalarif">
@@ -20,11 +20,6 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulawalarif&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulawalarif&theme=dark)
-
 
 <br>
 ⭐️ From [Abdul Awal](https://github.com/abdulawalarif)
