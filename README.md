@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,js,postman,firebase,github,git,postman,figma,xd,java,kotlin,regex,vscode,androidstudio,swift&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,js,postman,firebase,github,git,postman,figma,xd,java,kotlin,regex,vscode,androidstudio,swift&perline=9)](https://skillicons.dev)
 
 <br>
 ⭐️ From [Abdul Awal](https://github.com/abdulawalarif)
