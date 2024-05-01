@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Abdul Awal</h1>
 
-- 🔭 I’m currently working on Flutter
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working with Flutter and React Native
+- 💬 Ask me anything about Flutter and React Native
 - 📫 How to reach me: abdulawalarif0011@gmail.com
 - ⚡ My LinkedIn: https://www.linkedin.com/in/abdulawalarif
 - ⚡ My StackOverflow: https://stackoverflow.com/users/12343677/abdul-awal
@@ -14,7 +14,7 @@
    <a href="https://fb.com/Aawalarif">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com/Flutter_Appdev">
+   <a href="https://twitter.com/appdev_awal">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
