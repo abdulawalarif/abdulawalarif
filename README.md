@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Abdul Awal</h1>
 
 - 🔭 I’m currently working with Flutter and React Native
-- 💬 Ask me anything about Mobile application development!
+- 💬 Ask me anything about Mobile Application Development!
 - 📫 How to reach me: abdulawalarif0011@gmail.com
 - ⚡ My LinkedIn: https://www.linkedin.com/in/abdulawalarif
 - ⚡ My StackOverflow: https://stackoverflow.com/users/12343677/abdul-awal
