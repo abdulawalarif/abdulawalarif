@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I'm Awal 👋🏾 👩🏾‍💻 </h1>
 
-- 🔭 I’m currently working with Flutter and React Native
+- 🔭 I’m currently working with Flutter!
 - 💬 Ask me anything about Mobile Application Development!
 - ⚡ My StackOverflow: https://stackoverflow.com/users/12343677/abdul-awal
   
