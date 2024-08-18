@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Awal 👋🏾 👩🏾‍💻 </h1>
+ <h1 align="center">Hi, I'm Awal 👋🏾 👨‍💻 </h1>
 
 - 🔭 I’m currently working with Flutter!
 - 💬 Ask me anything about Mobile Application Development!
