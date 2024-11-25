@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Flutter!
 - 💬 Ask me anything about Mobile Application Development!
-- ⚡ My StackOverflow: <a href="https://stackoverflow.com/users/12343677/abdul-awal" target="_blank">StackOverflow Profile</a>
+- ⚡ My StackOverflow: <a href="https://stackoverflow.com/users/12343677/abdul-awal" target="_blank" rel="noopener noreferrer">StackOverflow Profile</a>
 
   
 I'm a Mobile Application developer who loves to build experiences that help people do what they couldn't do before. I love using technology to enable others and feel most fulfilled when using my skills. I'm a strong advocate for diversity and inclusion in the tech industry. 
