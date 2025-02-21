@@ -9,3 +9,5 @@ I'm a Mobile Application developer who loves to build experiences that help peop
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,firebase,github,git,postman,figma,xd,java,kotlin,regex,vscode,androidstudio,swift&perline=9)](https://skillicons.dev)
+
+![GitHub stars](https://img.shields.io/github/stars/abdulawalarif?style=social)
